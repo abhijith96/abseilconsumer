@@ -1,0 +1,4 @@
+[requires]
+abseil/20210324.1
+[generators]
+cmake
